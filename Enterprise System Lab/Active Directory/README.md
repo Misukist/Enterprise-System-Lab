@@ -36,8 +36,29 @@ Seuraavaksi latasin Windows Server 2022 Evaluation -ISO-tiedoston Microsoftin vi
 
 ### Virtuaalikoneen luonti
 
+Käynnistin asentamani VMware Workstationin ja tein Windows Server virtuaalikoneen. Tällä kertaa päätin olla käyttämättä ISO-tiedostoa virtuaalikoneen luontivaiheessa, sillä aiemmissa projekteissani kyseinen menetelmä on aiheuttanut odottamattomia ongelmia asennuksen aikana. Loin VM:n ilman käyttöjärjestelmää ja määritin käyttöjärjestelmäkksi Windows Server 2022, jota vaastavan tiedoston latasimme aikaisemmassa vaiheessa.
+
+![Windows Server](images/Setting_VM.png)
+
+Virtuaalikoneen ollessa valmis menin sen asetuksiin ja määrittelin manuaalisen reitin ISO tiedostolle virtuaaliseen CD/DVD-asemaan. Tämän jälkeen käynnistin koneen normaalisti valikosta jolloin asennus käynnistyi normaalisti ISO-tiedostolta.
+
+Huomio: Jos et boottaus vaiheessa paina mitään nappia mitään ei tapahdu jolloin pitää käynnistää virtuaalikone uudestaan.
+
+![CD-Asema](images/vm_cd-asema.png)
+
 <br>
 
 ### Windows Serverin asennus
 
+Kun virtuaalikone käynnistetään, Windows Serverin asennus käynnistyy automaattisesti ISO-tiedostolta.
+
+> **Huomio:** Käynnistyksen alussa näkyy kehote _"Press any key to boot from CD or DVD..."_. Jos näppäintä ei paineta ajoissa, asennus ei käynnisty, vaan virtuaalikone yrittää käynnistyä tyhjältä levyltä. Tällöin virtuaalikone on käynnistettävä uudelleen.
+
+Asennusvaiheessa on tärkeää valita Windows Server 2022 Standard Evaluation (Desktop Experience), sillä kyseinen versio sisältää graafisen käyttöliittymän (GUI). Graafinen käyttöliittymä helpottaa Active Directoryn, DNS:n, DHCP:n ja muiden palveluiden hallintaa.
+
+![Operating system](images/operating%20system.png)
+
+Kun järjestelmänvalvojan salasana oli määritetty ja käyttöjärjestelmä käynnistynyt, Windows Server oli valmis käyttöönotettavaksi. Tarkistin vielä Windver commandilla version jonka asensimme ja kaikki näytti olevan kunnossa.
 <br>
+
+## Active Directoryn asennus
