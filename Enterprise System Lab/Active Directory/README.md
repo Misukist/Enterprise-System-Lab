@@ -1,6 +1,6 @@
 # ACTIVE DIRECTORY
 
--
+---
 
 ## Esittely
 
@@ -10,7 +10,7 @@ Projektissa tulen tekemään alusta alkaen toimivan Windows Server -ympäristön
 
 Dokumentoin projektin vaihe vaiheelta GitHubiin, mukaan lukien arkkitehtuurin, käyttöönoton, kohtaamani haasteet sekä niiden ratkaisut. Tavoitteena on oppia käytännön järjestelmähallintaa ja rakentaa samalla portfolio, joka kuvastaa osaamistani yritysympäristöjen ylläpidossa.
 
--
+---
 
 ## Virtuaaliympäristön käyttöönotto
 
