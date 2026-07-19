@@ -1,0 +1,60 @@
+# Enterprise Systems Lab
+
+## Tervetuloa!
+
+Enterprise Systems Lab on henkilökohtainen kotilaboratorioni, jonka tavoitteena on kehittää käytännön osaamistani yritys-IT:n keskeisillä osa-alueilla.
+
+Projektissa rakennan vaihe vaiheelta yritysympäristöä vastaavan kokonaisuuden hyödyntäen Microsoftin, Linuxin ja muiden yleisesti käytettyjen teknologioiden ratkaisuja. Tarkoituksena ei ole pelkästään seurata valmiita ohjeita, vaan ymmärtää, dokumentoida ja ratkaista käytännön tilanteita samalla tavalla kuin oikeassa IT-ympäristössä.
+
+Tämä laboratorio toimii samalla portfoliona, johon dokumentoin projektit, käyttämäni teknologiat, kohtaamani haasteet sekä niiden ratkaisut.
+
+---
+
+## Projektin tavoitteet
+
+- Kehittää järjestelmäylläpidon osaamista
+- Harjoitella yritysverkkojen ja palvelinympäristöjen rakentamista
+- Oppia Microsoft Azure- ja Entra ID -ympäristöjä
+- Harjoitella Active Directoryn hallintaa
+- Tutustua IT-palvelunhallintaan (GLPI)
+- Harjoitella Dockerin käyttöä
+- Dokumentoida projektit selkeästi GitHubiin
+- Rakentaa työnhaussa hyödynnettävä portfolio
+
+---
+
+## Projektit
+
+| Projekti | Tila |
+|----------|------|
+| Active Directory | 🔄 Työn alla |
+| Azure & Entra ID | ⏳ Tulossa |
+| GLPI (IT Service Management) | ⏳ Tulossa |
+| Docker | ⏳ Tulossa |
+| Networking | ⏳ Tulossa |
+| Full Stack Deployment | ⏳ Tulossa |
+
+---
+
+## Käytettävät teknologiat
+
+- Windows Server
+- Active Directory
+- DNS
+- DHCP
+- Group Policy
+- Microsoft Azure
+- Microsoft Entra ID
+- Docker
+- Linux
+- GLPI
+- Git
+- GitHub
+- VMware Workstation
+- PowerShell
+
+---
+
+## Miksi tämä projekti?
+
+Haluan kehittää osaamistani erityisesti järjestelmähallinnan, pilvipalveluiden ja yritysympäristöjen parissa. Enterprise Systems Lab tarjoaa mahdollisuuden harjoitella teknologioita käytännössä, dokumentoida oppimistani sekä rakentaa portfoliota, joka kuvastaa osaamistani ohjelmistokehityksen, IT-tuen ja järjestelmäasiantuntijan tehtäviä varten.
