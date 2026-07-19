@@ -1,6 +1,6 @@
 # ACTIVE DIRECTORY
 
----
+<br>
 
 ## Esittely
 
@@ -10,11 +10,13 @@ Projektissa tulen tekemään alusta alkaen toimivan Windows Server -ympäristön
 
 Dokumentoin projektin vaihe vaiheelta GitHubiin, mukaan lukien arkkitehtuurin, käyttöönoton, kohtaamani haasteet sekä niiden ratkaisut. Tavoitteena on oppia käytännön järjestelmähallintaa ja rakentaa samalla portfolio, joka kuvastaa osaamistani yritysympäristöjen ylläpidossa.
 
----
+<br>
 
 ## Virtuaaliympäristön käyttöönotto
 
 Tässä osiossa valmistelen Active Directory -labraa varten tarvittavan virtuaaliympäristön. Käyn läpi VMware Workstation Pron asennuksen, Windows Server -asennusmedian lataamisen, virtuaalikoneen luonnin sekä käyttöjärjestelmän asennuksen.
+
+<br>
 
 ### VMwaren Workstationin asennus
 
@@ -24,10 +26,18 @@ Itse asennus onnistui exe:n kautta kivuttomasti ilman ongelmia.
 
 ![VMware Workstation Pro 26H1](images/vmware_version.png)
 
+<br>
+
 ### Windows Server ISO lataus
 
 Seuraavaksi latasin Windows Server 2022 Evaluation -ISO-tiedoston Microsoftin virallisilta sivuilta. Evaluation-versio soveltuu erinomaisesti laboratorioympäristöön, sillä se tarjoaa kaikki tarvittavat ominaisuudet Active Directoryn ja muiden palveluiden käyttöönottoon ilman erillistä lisenssiä.
 
+<br>
+
 ### Virtuaalikoneen luonti
 
+<br>
+
 ### Windows Serverin asennus
+
+<br>
