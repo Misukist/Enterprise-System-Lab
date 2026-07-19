@@ -149,4 +149,6 @@ Tässä laboratorioympäristössä hyödynnän Global-ryhmiä käyttäjien organ
 
 Uuden käyttäjän luominen tapahtuu samalla periaatteella kuin muidenkin Active Directory -objektien luominen OU-rakenteeseen. New > User. Sitten tiedot ylös ja vola!
 
-![User](images/user)
+![User](images/user.png)
+
+<br>

@@ -17,3 +17,5 @@ Ensimmäisessä osiossa rakennetaan Active Directory -ympäristön pohja. Tähä
 
 **Osio 2: Käyttäjähallinta**  
 Toisessa osiossa keskitytään Active Directoryn käyttäjähallintaan. Tässä vaiheessa luodaan käyttäjiä ja ryhmiä aiemmin määritettyihin OU-rakenteisiin sekä harjoitellaan Active Directory -objektien hallintaa yritysympäristöä vastaavalla tavalla.
+
+<br>
