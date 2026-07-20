@@ -152,3 +152,12 @@ Uuden käyttäjän luominen tapahtuu samalla periaatteella kuin muidenkin Active
 ![User](images/user.png)
 
 <br>
+
+## Mitä opin?
+
+- Opin, miten Active Directory Domain Services asennetaan Windows Serveriin.
+- Ymmärsin Domain Controllerin roolin toimialueympäristössä.
+- Opin suunnittelemaan yritysympäristöä vastaavan OU-rakenteen.
+- Harjoittelin käyttäjien ja objektien hallintaa Active Directory Users and Computers -työkalulla.
+
+<br>
