@@ -8,6 +8,8 @@ Projektin seuraavassa vaiheessa otettiin käyttöön Group Policy Management, jo
 
 <br>
 
+## Ryhmäkäytäntöjen (GPO) määrittäminen
+
 ### Luodaan ryhmäkäytäntö objekti
 
 Oman domainin alta löytyi Default Domain Policy, jonka editoriin pääsi klikkaamalla oikealla hiirellä ja painamalla Edit. Tämän jälkeen avautui Group Policy Management Editor, jonka avulla voitiin määrittää toimialueelle kohdistettavia käytäntöjä (Policies).

@@ -6,11 +6,19 @@
 
 Projekti oli edennyt siihen vaiheeseen, että toimialueelle voitiin alkaa luoda käyttäjiä ja ryhmiä sekä määrittää niille käyttöoikeuksia ja ryhmäkäytäntöjä. Tässä osiossa keskityttiin käyttäjähallinnan perusteisiin sekä Active Directoryn käyttöoikeuksien hallintaan.
 
+<br>
+
+## käyttäjähallinta
+
+<br>
+
 ### VM luominen projektiin
 
 Loin Virtuaali koneen, jolle voin Konfiguroida luomiamme GPO:ita. En aijo käydä yksityiskohtaisesti läpi miten loin virtuaalikoneen, sillä sen periaate on sama kuin osa-1 luomamme windows-serveri. Latasin kokeiluversion windows-11 ISO tiedoston ja boottasin sen virtuaalikoneen CD-asemalta sekä eurasin ruudulle ilmestyviä asennusohjeita. On tärkeää että Windows versio on joko Pro tai Enterprise versio sillä vain näissä Windows versioissa on mahdollisuus liittyä domainiin.
 
-![asennus](images/asennus.png)
+![asennus](images/Asennus.png)
+
+<br>
 
 ### Serverin konfigurointi
 
@@ -21,6 +29,8 @@ Konfigurointi tehtiin Windows Serverin Network Connections -asetuksista. Avasin 
 ![Ethernet](images/Ethernet.png)
 
 Tarkistin kaiken konfiguroimani vielä Windowsin komentorivillä ipconfig /all ja kaikki näytti miltä pitääkin.
+
+<br>
 
 ### Koneen lisäys domainiin
 
@@ -36,6 +46,8 @@ Suuntasin käyttäjäasetuksiin ja sieltä **domain** jossa määritin tietokone
 
 Kun kone oli määritelty domainiin käynnistin koneen uudelleen. Kirjautumisruudussa valitsin Toisen käyttäjän ja nyt ruudulla lukee onnistuneesti Domainini nimi **Misukisti**.
 
+<br>
+
 ### Group Policyjen käyttöönotto
 
 Nyt Serverillä **Group Policy Managerissa** linkitin policyja **Group Policy Objektista** vetämällä ne oikeisiin OU:hin (Users, Computers).
@@ -45,6 +57,8 @@ Nyt Serverillä **Group Policy Managerissa** linkitin policyja **Group Policy Ob
 Jotta GPO:t toimivat kyseisessä koneessa on kone assetti siirrettävä oikealle OU:lle. Tässä tapauksessa määrittelemälleni Europe ja sen Computer. Tämä tapahtui käyttämällä move toimintoa ja siirtämällä se valittuun OU:hin.
 
 ![computer](images/Computer.png)
+
+<br>
 
 ### Mitä ongelmia kohtasin ja miten ratkoin sen
 
