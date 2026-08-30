@@ -10,12 +10,18 @@ Projektissa tulen tekemään alusta alkaen toimivan Windows Server -ympäristön
 
 Dokumentoin projektin vaihe vaiheelta GitHubiin, mukaan lukien arkkitehtuurin, käyttöönoton, kohtaamani haasteet sekä niiden ratkaisut. Tavoitteena on oppia käytännön järjestelmähallintaa ja rakentaa samalla portfolio, joka kuvastaa osaamistani yritysympäristöjen ylläpidossa.
 
-Tämä kokonaisuus on jaettu kahteen osioon.
+Jaoin projektin moneen alakategoriaan sen helppolukuisuuden ja selkeämmän rakenteen vuoksi.
 
 **Osio 1: Projektin perusta**  
-Ensimmäisessä osiossa rakennetaan Active Directory -ympäristön pohja. Tähän kuuluu virtuaaliympäristön luominen, Windows Serverin asennus, Active Directoryn käyttöönotto, toimialueen määrittäminen sekä ensimmäisen OU-rakenteen luominen.
+Ensimmäisessä osiossa rakennetaan Active Directory -ympäristön pohja. Tähän kuuluu virtuaaliympäristön luominen, Windows Serverin asennus, Active Directoryn käyttöönotto, toimialueen määrittäminen sekä ensimmäisen OU-rakenteen luominen. Luomme myös ensimmmäiset testikäyttäjät ja ryhmät tulevia osia varten.
 
-**Osio 2: Käyttäjähallinta**  
-Toisessa osiossa keskitytään Active Directoryn käyttäjähallintaan. Tässä vaiheessa luodaan käyttäjiä ja ryhmiä aiemmin määritettyihin OU-rakenteisiin sekä harjoitellaan Active Directory -objektien hallintaa yritysympäristöä vastaavalla tavalla.
+**Osio 2: Ryhmäkäytäntöjen määrittäminen**  
+Toisessa osiossa keskitytään Active Directoryn ryhmäkäytäntöjen (GPO) luomiseen ja toimintaan. Tässä vaiheessa keskitymme vain ryhmäkäytäntöjen toimintaan jotka sitten myöhemmässä osassa otetaan käyttöön.
+
+**Osio 3: Käyttäjähallinta**
+Kolmannessa osassa otamme käyttöön ryhmäkäytännöt luomillemme käyttäjille. Luomme myös lisää käyttäjiä ja tutustummme miten eri OU:lle määritellään eri ryhmäkäytäntöjä.
+
+**Osio 4: Tiedostojen jakaminen**
+Neljännessä osassa tutustutaan tiedostojen jakamiseen ja näkymiseen eri käyttäjäryhmien välillä. Osiossa tutustutaan paikalliseen ja verkon väliseen jakamiseen ja niiden eroavaisuuksiin.
 
 <br>

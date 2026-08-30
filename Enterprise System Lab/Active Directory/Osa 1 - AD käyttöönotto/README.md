@@ -4,27 +4,19 @@
 
 ## Esittely
 
-Osa 1 rakennan projektin perustan luomalla virtuaaliympäristön, asentamalla Windows Serverin sekä ottamalla käyttöön Active Directoryn Domain Servicen.
-
-Osion aikana:
-
-- luodaan ja määritetään Windows Server -virtuaalikone
-- asennetaan Active Directory ja luodaan toimialue
-- rakennetaan ensimmäinen OU-rakenne
-- luodaan käyttäjiä ja ryhmiä Active Directoryyn
-- tutustutaan käyttäjähallinnan perusteisiin
+Osa 1 rakensin projektin perustan luomalla virtuaaliympäristön, asentamalla Windows Serverin sekä ottamalla käyttöön Active Directoryn Domain Servicen.
 
 <br>
 
 ## Virtuaaliympäristön käyttöönotto
 
-Tässä osiossa valmistelen Active Directory -labraa varten tarvittavan virtuaaliympäristön. Käyn läpi VMware Workstation Pron asennuksen, Windows Server -asennusmedian lataamisen, virtuaalikoneen luonnin sekä käyttöjärjestelmän asennuksen.
+Tässä osiossa valmistelin Active Directory -labraa varten tarvittavan virtuaaliympäristön. Kävin läpi VMware Workstation Pron asennuksen, Windows Server -asennusmedian lataamisen, virtuaalikoneen luonnin sekä käyttöjärjestelmän asennuksen.
 
 <br>
 
 ### VMwaren Workstationin asennus
 
-Ensimmäiseksi haasteekseni tuli selvittää mikä VMware Workstation versio olisi minulle sopiva ja onko erot huomattavia esimerkiksi yrityskäytössä. Päädyin valitsemaan uusimman VMware Workstation Pro 26H1-version, sillä se tarjoaa tuen uusimmille käyttöjärjestelmille ja sisältää useita suorituskykyyn sekä käytettävyyteen liittyviä parannuksia. Lisäksi versio on maksutta käytettävissä myös henkilökohtaiseen ja kaupalliseen käyttöön, joten se soveltuu erinomaisesti tämän laboratorion virtualisointialustaksi.
+Ensimmäiseksi haasteekseni tuli selvittää, mikä VMware Workstation versio olisi minulle sopiva ja onko erot huomattavia esimerkiksi yrityskäytössä. Päädyin valitsemaan uusimman VMware Workstation Pro 26H1-version, sillä se tarjoaa tuen uusimmille käyttöjärjestelmille ja sisältää useita suorituskykyyn sekä käytettävyyteen liittyviä parannuksia. Lisäksi versio on maksutta käytettävissä myös henkilökohtaiseen ja kaupalliseen käyttöön, joten se soveltuu erinomaisesti tämän laboratorion virtualisointialustaksi.
 
 Itse asennus onnistui exe:n kautta kivuttomasti ilman ongelmia.
 
