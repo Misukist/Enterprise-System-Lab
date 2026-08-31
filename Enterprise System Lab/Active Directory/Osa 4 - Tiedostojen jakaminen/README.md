@@ -8,7 +8,7 @@ Tässä osiossa määrittelin keille tietyt tiedostot näkyvät. Osiossa tutustu
 
 <br>
 
-## Tiedostojen jakamisen valmistelut
+### Tiedostojen jakamisen valmistelut
 
 Loin local disk C:n juureen kansion "SHARED" jolle määrittelin oikeudet. Haluan määritellä myöhemmin tarkempia oikeuksia kansioiden sisällä tiettyihin tiedostoihin johon yleinen oikeus ei ole pätevä vaan joudun käyttämään NTSF ominaisuutta jolla pystyy piilottamaan tiedostoja käyttäjiltä.
 
@@ -22,7 +22,7 @@ Jos haluan käyttää NTSF (New Technology File System) ominaisuutta suuntaisin 
 
 <br>
 
-## Verkkoasemien kartoittaminen kartoittamalla (mapping)
+### Verkkoasemien kartoittaminen kartoittamalla (mapping)
 
 Windows koneella jonka lisäsimme eilen domainiimme navigoin tiedostoissa **This PC** ja oikealla klikillä kohtaan **Map network folder**. Se kysyy folderin nimeä johon pistin serverini nimen ja kansion jonka halusin jakaa (\\WindowsServer\kansion nimi). Windows serverin sain kirjoittamalla serverin komentoriville hostname.
 
@@ -32,7 +32,7 @@ Kartoittaminen tällä tavalla on huono tapa yritysympäristössä, sillä se tu
 
 <br>
 
-## Verkkoasemien määrittely GPO:iden avulla
+### Verkkoasemien määrittely GPO:iden avulla
 
 Hoidin homman siis tutulla kaavalla vanhoista osioista. Loin uuden Group Policyn (Mapped Drives) ja muokkasin sitä.
 
@@ -46,7 +46,7 @@ Nyt viimeisenä määritelty GPO piti linkittää oikeaan kohtaan eli käyttäji
 
 <br>
 
-## Verkkoasemien määrittely FSRM:n (File Server Resource Manager) avulla
+### Verkkoasemien määrittely FSRM:n (File Server Resource Manager) avulla
 
 FSRM on resurssienhallinta työkalu, jonka avulla järjestelmänvalvoja voi hallita, valvoa ja rajoittaa tiedostopalvelimille tallennettavaa dataa.
 

@@ -24,4 +24,7 @@ Kolmannessa osassa otamme käyttöön ryhmäkäytännöt luomillemme käyttäjil
 **Osio 4: Tiedostojen jakaminen**
 Neljännessä osassa tutustutaan tiedostojen jakamiseen ja näkymiseen eri käyttäjäryhmien välillä. Osiossa tutustutaan paikalliseen ja verkon väliseen jakamiseen ja niiden eroavaisuuksiin.
 
+**Osio 5: Tietoturvakäytäntöjen toteuttaminen**
+Viidennessä osassa opettelen hyviä tietoturvakäytäntöjä mitä tulee käyttäjähallintaa. määrittelen muunmmuassa käytäntöjä salasanoille, kirjautumisille ja etäyhteyksille.
+
 <br>
