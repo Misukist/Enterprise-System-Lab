@@ -27,4 +27,7 @@ Neljännessä osassa tutustutaan tiedostojen jakamiseen ja näkymiseen eri käyt
 **Osio 5: Tietoturvakäytäntöjen toteuttaminen**
 Viidennessä osassa opettelen hyviä tietoturvakäytäntöjä mitä tulee käyttäjähallintaa. määrittelen muunmmuassa käytäntöjä salasanoille, kirjautumisille ja etäyhteyksille.
 
+**Osio 6: Palvelutili**
+Kuudennessa ja viimmeisessä osiossa harjoittelen Service Accountin luomista serverille. Konfiguroin sille yksinkertaisen GPO:n ja automatisoin sen kirjautumisen.
+
 <br>
