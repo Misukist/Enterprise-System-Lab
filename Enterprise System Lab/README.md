@@ -27,8 +27,8 @@ Tämä laboratorio toimii samalla portfoliona, johon dokumentoin projektit, käy
 
 | Projekti                                  | Tila         |
 | ----------------------------------------- | ------------ |
-| [Active Directory](./Active%20Directory/) | ☑️ Työn alla |
-| Azure & Entra ID                          | 🔄 Tulossa   |
+| [Active Directory](./Active%20Directory/) | ☑️ Valmis    |
+| Azure & Entra ID                          | 🔄 Työn alla |
 | GLPI (IT Service Management)              | ⏳ Tulossa   |
 | Docker                                    | ⏳ Tulossa   |
 | Networking                                | ⏳ Tulossa   |
