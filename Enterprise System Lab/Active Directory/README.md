@@ -31,3 +31,7 @@ Viidennessä osassa opettelen hyviä tietoturvakäytäntöjä mitä tulee käytt
 Kuudennessa ja viimmeisessä osiossa harjoittelen Service Accountin luomista serverille. Konfiguroin sille yksinkertaisen GPO:n ja automatisoin sen kirjautumisen.
 
 <br>
+
+Lähteet:
+EastCharmer: https://www.youtube.com/watch?v=GsmJowwIh8Q&list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ
+Microsoft Learn: https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview?utm_source=chatgpt.com
