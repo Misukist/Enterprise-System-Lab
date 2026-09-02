@@ -28,7 +28,7 @@ Halusin että käyttäjällä on mahdollisuus salasanan palauttamiseen sen jälk
 
 Näin ollen navigoin vasemmasta paneelista kohtaan **password reset**. Valitsin **Self service password enabled** valitsimesta kohdan selected jotta valitsemallani groupilla on mahdollisuus salasanan palauttamiseen. **No group selected** kohdasta valitsin kohde ryhmän jolle halusin asetuksen ja nyt tallensin määrittelyn.
 
-![passwordReset](images/PasswordReset.png)
+![PasswordReset](images/PasswordReset.png)
 
 Sitteen vähän SSPR asetuksiin. Suuntasin Authentication methods tabiin ja valitsin sieltä **Numbeer of methods required reset: 1**. Tämä tarkoittaa sitä kun käyttäjä palauttaa salasanansa SSPR:n avulla, hänen täytyy käyttää yhtä tunnistautumismenetelmää henkilöllisyytensä vahvistamiseen. Esimerkiksi: Microsoft authentication tai puhelinnumero/tekstiviesti. **Auth methods policysta** voi määritellä tarkemmat palauttamiseen halutus menetelmät.
 
@@ -88,4 +88,4 @@ Testasimme luodun policyn toimintaa **What If** -toiminnolla. Siirryin takaisin 
 
 **Identity**-kohdassa valitsin **Users** ja käyttäjäksi Misun. **Target Resources** -kohdassa valitsin **Cloud Apps** ja sovellukseksi **Skype**. Lopuksi painoin **What If**, jolloin näimme, miten luotu policy vaikuttaisi kyseisen käyttäjän kirjautumiseen.
 
-![wi](images/wi)
+![wi](images/wi.png)
