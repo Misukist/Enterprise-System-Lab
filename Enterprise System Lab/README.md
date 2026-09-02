@@ -28,8 +28,8 @@ Tämä laboratorio toimii samalla portfoliona, johon dokumentoin projektit, käy
 | Projekti                                  | Tila         |
 | ----------------------------------------- | ------------ |
 | [Active Directory](./Active%20Directory/) | ☑️ Valmis    |
-| [Entra ID](./Microsoft%20Entra%20ID/)     | ☑️ Työn alla |
-| GLPI (IT Service Management)              | 🔄 Tulossa   |
+| [Entra ID](./Microsoft%20Entra%20ID/)     | ☑️ Valmis    |
+| GLPI (IT Service Management)              | 🔄 Työn alla |
 | Docker                                    | ⏳ Tulossa   |
 | Networking                                | ⏳ Tulossa   |
 | Full Stack Deployment                     | ⏳ Tulossa   |
