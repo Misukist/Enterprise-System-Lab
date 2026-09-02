@@ -74,7 +74,7 @@ Homma hoidettiin taas Entran admin centerissä jossa suuntasin **Conditional acc
 
 Tein ekan käyttöoikeuden (policy) kohdassa **+ Create new policy** . Halusin estää käyttäjää Misu käyttämästä Skypeä. **User** kohdassa valitsin **Users and groups** ja **include** tabista **select users and groups**. Eteen avautuu lista ryhmistä ja käyttäjistä josta valitsin Misu käyttäjän. Nyt **Exclude** tabista valitsin admin käyttäjäni jotta se ei jäisi vahingossakaan policyn jalkoihin kun sen asetuksia muutettaisiin.
 
-![policy](images/policy.png)
+![policy](images/policy_user.png)
 
 Seuraavaksi suuntasin Target tabiin josta voin blockata yksittäisiä sovelluksia. Valitsin **Resources (formerly cloud apps)**, include tabista **select resource** ja nyt **specific resourcesta** Skype.
 
