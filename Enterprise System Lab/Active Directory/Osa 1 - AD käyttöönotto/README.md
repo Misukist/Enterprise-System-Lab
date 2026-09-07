@@ -8,7 +8,7 @@ Osa 1 rakensin projektin perustan luomalla virtuaaliympäristön, asentamalla Wi
 
 <br>
 
-## Virtuaaliympäristön käyttöönotto
+### Virtuaaliympäristön käyttöönotto
 
 Tässä osiossa valmistelin Active Directory -labraa varten tarvittavan virtuaaliympäristön. Kävin läpi VMware Workstation Pron asennuksen, Windows Server -asennusmedian lataamisen, virtuaalikoneen luonnin sekä käyttöjärjestelmän asennuksen.
 
