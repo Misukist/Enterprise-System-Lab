@@ -12,3 +12,6 @@ Projektin lopputuloksena on toimiva helpdesk-ympäristö, jossa käyttäjä voi 
 
 **Osio 0: Projektin perusta**  
 Ensimmäisessä osiossa rakensin 2 virtuaalikonetta. Toisen GLPI serveriksi (Ubuntu) ja toisen käyttäjäkis GLPI serverille (Windows 11). Molemmat virtuaalikoneet asennettiin ja ajettiin vm workstation ympäristössä.
+
+**Osio 1: GLPI asennus Ubuntulle**  
+Toisessa osioissa asensin GLPIä varten tarvittavat komponentit ja määrittelin ne projektin tarpeiden mukaisesti. Asennukseen kuuluivat muun muassa Ubuntu Server, Apache, PHP ja MariaDB sekä GLPI tarvitsemat asetukset ja tiedostorakenteet.
