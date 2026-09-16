@@ -28,8 +28,6 @@ Microsoft Learn: https://learn.microsoft.com/en-us/training/modules/get-started-
 
 ### Mitä opin?
 
-<br>
-
 - Microsoft Entra ID käyttöönottoa ja tenantin hallintaa
 - Pilvipohjaisen identiteetin- ja käyttäjähallinnan perusteita
 - Käyttäjien luomista ja ulkopuolisten käyttäjien lisäämistä

@@ -2,7 +2,7 @@
 
 ## Tervetuloa!
 
-Enterprise Systems Lab on henkilökohtainen kotilaboratorioni, jonka tavoitteena on kehittää käytännön osaamistani yritys-IT:n keskeisillä osa-alueilla.
+Enterprise Systems Lab on henkilökohtainen kotilaboratorioni, jonka tavoitteena on kehittää käytännön osaamistani yritys-IT:n keskeisillä osa-alueilla ja erityisesti IT-tuen parissa.
 
 Projektissa rakennan vaihe vaiheelta yritysympäristöä vastaavan kokonaisuuden hyödyntäen Microsoftin, Linuxin ja muiden yleisesti käytettyjen teknologioiden ratkaisuja. Tarkoituksena ei ole pelkästään seurata valmiita ohjeita, vaan ymmärtää, dokumentoida ja ratkaista käytännön tilanteita samalla tavalla kuin oikeassa IT-ympäristössä.
 
@@ -29,7 +29,7 @@ Tämä laboratorio toimii samalla portfoliona, johon dokumentoin projektit, käy
 | ----------------------------------------- | ------------ |
 | [Active Directory](./Active%20Directory/) | ☑️ Valmis    |
 | [Entra ID](./Microsoft%20Entra%20ID/)     | ☑️ Valmis    |
-| GLPI (IT Service Management)              | ☑️ Valmis    |
+| [GLPI (IT Service Management)](./GLPI/)   | ☑️ Valmis    |
 | Docker                                    | 🔄 Työn alla |
 | Networking                                | ⏳ Tulossa   |
 | Azure                                     | ⏳ Tulossa   |

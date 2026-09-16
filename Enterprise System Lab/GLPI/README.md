@@ -27,9 +27,9 @@ GLPI:n omat dokumentaatiot ja tutoriaalit:
 https://help.glpi-project.org/tutorials
 https://www.youtube.com/watch?v=Dc0dy1Z6MyM
 
-### Mitä opin?
-
 <br>
+
+### Mitä opin?
 
 - Ubuntu serverin käyttöä ja käyttöönottoa
 - Oman GLPI-palvelimen asentamista ja ylläpitoa
