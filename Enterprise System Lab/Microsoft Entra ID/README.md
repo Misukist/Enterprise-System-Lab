@@ -23,3 +23,22 @@ Neljännessä osiossa loin erilaisia käytäntöjä (policy) ja tutustuin niiden
 Lähteet:
 
 Microsoft Learn: https://learn.microsoft.com/en-us/training/modules/get-started-identity-access-labs/
+
+<br>
+
+### Mitä opin?
+
+<br>
+
+- Microsoft Entra ID käyttöönottoa ja tenantin hallintaa
+- Pilvipohjaisen identiteetin- ja käyttäjähallinnan perusteita
+- Käyttäjien luomista ja ulkopuolisten käyttäjien lisäämistä
+- Käyttäjien roolien ja käyttöoikeuksien määrittämistä
+- Käyttäjä- ja Security-ryhmien luomista ja hallintaa
+- Ryhmien käyttöoikeuksien ja lisenssien hallintaa
+- Policy-käytäntöjen luomista ja niiden toiminnan testaamista What If -työkalulla
+- Monivaiheisen tunnistautumisen (MFA) määrittämistä
+- Salasanojen hallintaa ja suojaamista
+- Pilvipohjaisen ympäristön hallinnan ja Active Directory -ympäristön eroja
+
+<br>

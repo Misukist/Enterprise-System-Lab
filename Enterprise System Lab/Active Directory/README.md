@@ -35,3 +35,21 @@ Kuudennessa ja viimeisessä osiossa harjoittelin Service Accountin luomista serv
 Lähteet:
 EastCharmer: https://www.youtube.com/watch?v=GsmJowwIh8Q&list=PLAdEnQWAAbfXMY2D4HVZOe-ChfTKmaJfQ
 Microsoft Learn: https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview?utm_source=chatgpt.com
+
+<br>
+
+### Mitä opin?
+
+<br>
+
+- Virtuaaliympäristön luomista ja Windows Serverin käyttöönottoa
+- Active Directoryn asentamista, määrittämistä ja ylläpitoa
+- Toimialueen (Domain) ja OU-rakenteen luomista ja hallintaa
+- Käyttäjien ja ryhmien luomista sekä käyttäjähallintaa
+- Ryhmäkäytäntöjen (GPO) luomista ja kohdistamista eri käyttäjille ja OU
+- Tiedostojen jakamista paikallisesti ja verkon kautta sekä käyttöoikeuksien määrittämistä
+- Käyttäjien tietoturvakäytäntöjen määrittämistä, kuten salasana-, kirjautumis- ja etäyhteyskäytäntöjä
+- Service Account -palvelutilin luomista ja sen käyttöä
+- GPO hyödyntämistä palvelutilin asetusten määrittämisessä ja kirjautumisen automatisoinnissa
+
+<br>

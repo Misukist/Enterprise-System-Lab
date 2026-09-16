@@ -92,4 +92,18 @@ Tiketti oli saapunut ja tilassa lukee (osoitettu) mikä tarkoittaa että se on o
 
 ![osoitettu](images/osoitettu.png)
 
+Oli aika ratkaista tiketti. Kirjauduin IT-tuki-käyttäjälle ja siirryin navigointivälilehdeltä kohtaan **Tiketit**.
+
+![tiketit](images/tiketit.png)
+
+Valitsin listalta tiketin, joka oli osoitettu käyttäjälleni, ja aloitin asiakkaan ongelman selvittämisen. Vastasin tikettiin lähettämällä tarkentavan kysymyksen. Asiakkaan vastauksen jälkeen pystyin ratkaisemaan ongelman. Merkitsin tiketin ratkaistuksi alareunan valikosta valitsemalla **Lisää ratkaisu**.
+
+![lisää](images/lisää%20ratkaisu.png)
+
+Ratkaisuun voidaan lisätä erilaisia templateja, joita voidaan käyttää valmiina pohjina vastauksille. Tämä helpottaa esimerkiksi toistuvien ongelmien ratkaisemista, koska asiakkaalle voidaan lähettää valmiiksi laaditut ja kattavat ohjeet ongelman ratkaisemiseksi. Templateja voidaan hyödyntää myös tiketin etenemisen seurannassa ja esimerkiksi tilanteissa, joissa tiketti voidaan sulkea automaattisesti, jos asiakas ei vastaa määrätyn ajan kuluessa.
+
+Tutustuin templatejen luomiseen ja käyttöön, mutta en ottanut niitä mukaan varsinaiseen harjoitukseen. Lopuksi merkitsin tiketin Ratkaistu-tilaan, jolloin se siirtyi ratkaistujen tikettien listalle.
+
+![ratkaistu](images/ratkaistu.png)
+
 <br>

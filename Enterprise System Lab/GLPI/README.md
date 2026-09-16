@@ -20,4 +20,21 @@ Toisessa osiossa asensin GLPIä varten tarvittavat komponentit ja määrittelin 
 Tässä osiossa asensin GLPI web-selaimella käytettävään muotoon. Määritin tarvittavat palvelut ja asetukset, jotta GLPIä voidaan käyttää selaimen kautta. Lopuksi viimeistelin GLPI asennuksen ja varmistin, että järjestelmään pystyi kirjautumaan onnistuneesti ja tietoturvallisesti.
 
 **Osio 3: Käytön harjoittelu**
-Kolmannessa osiossa harjoittelin käytännössä ohjelman käyttöä ja esimerkkien avulla simuloitiin oikeaa IT-tuen tilannetta.
+Kolmannessa osiossa harjoittelin käytännössä ohjelman käyttöä ja esimerkin avulla simuloitiin oikeaa IT-tuen tilannetta.
+
+Lähteet:
+GLPI:n omat dokumentaatiot ja tutoriaalit:
+https://help.glpi-project.org/tutorials
+https://www.youtube.com/watch?v=Dc0dy1Z6MyM
+
+### Mitä opin?
+
+<br>
+
+- Ubuntu serverin käyttöä ja käyttöönottoa
+- Oman GLPI-palvelimen asentamista ja ylläpitoa
+- GLPI käyttöä ja käyttäjähallintaa
+- Tikettien luomista, käsittelyä ja ratkaisemista
+- SSH-yhteyden muodostamista sisäverkossa
+
+<br>
