@@ -13,7 +13,8 @@ Docker on hyödyllinen taito oppia, koska sen avulla sovelluksia ja palveluita v
 **Osio 1: Asennus Ubuntu serverille**
 Ensimmäisessä osiossa asensin Dockerin vaatimat komponentit GLPI-harjoituksesta tutulle Ubuntu Serverille, joka toimi virtuaalikoneessa.
 
-**Osio 2:**
+**Osio 2: Peruskomennot**
 Toisessa osiossa harjoittelin Dockerin peruskomentoja ennen varsinaista labia.
 
-**Osio 3:**
+**Osio 3: Konttien ja kuvien ajaminen**
+Kolmannessa osiossa kokeilin Dockerin peruskomentoja käytännössä. Tämä osio jäi hieman helpoksi toteuttaa, sillä seuraavana työn alla on asentaa kotiympäristööni kotilabra, johon asentelen Dockerin ja erilaisia sovelluksia.
