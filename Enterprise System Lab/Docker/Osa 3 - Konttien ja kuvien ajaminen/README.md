@@ -45,3 +45,28 @@ Sama tehtiin myös kuville (image) jotka sai esiin komennolla **docker images** 
 <br>
 
 ### Compose
+
+Docker Compose antaa minulle mahdollisuuden hallita ja käynnistää useita Docker-kontteja yhden komennon avulla.
+
+Ensin loin kansion vekkula **mkdir vekkula**, ja sitten suuntasin kansioon **cd vekkula**. Sinne loin konfiguraatio kansion docker-compose.yaml Kansioon määrittelin:
+
+services:
+web:
+image: nginx
+ports: - "8080:80"
+
+alpine:
+image: alpine
+command: sleep 3600
+
+Käynnistäessäni Composen käynnistän web-palvelimen porttiin 80 ja Alpine-kontin `sleep`-komennolla. Tämä yhdistelmä ei välttämättä ole käytännössä kovin hyödyllinen, mutta halusin ottaa molemmat mukaan Composeen demonstraation vuoksi.
+
+Käynnistän composen **docker compose up -d** komennolla ja kun laitan **docker compose ps** huomaan että kontit käynnistyivät onnistuneesti.
+
+<br>
+
+![kontit](images/kontit.png)
+
+<br>
+
+Voin myös sulkea composen komennolla **docker compose down**.
