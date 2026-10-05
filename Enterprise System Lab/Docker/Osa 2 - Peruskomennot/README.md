@@ -43,3 +43,5 @@ Näyttää kontin tuottamat lokitiedot. Komennolla voidaan esimerkiksi tarkistaa
 
 **docker exec [ name ] [ command ]:**
 Suorittaa komennon käynnissä olevan kontin sisällä. Tätä voidaan käyttää esimerkiksi kontin sisälle siirtymiseen komennolla docker exec -it [name] bash.
+
+<br>

@@ -70,3 +70,5 @@ Käynnistän composen **docker compose up -d** komennolla ja kun laitan **docker
 <br>
 
 Voin myös sulkea composen komennolla **docker compose down**.
+
+<br>
